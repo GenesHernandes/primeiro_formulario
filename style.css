@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#titulo {
+  font-family: sans-serif;
+  color: #0101df;
+  margin-left: 7%;
+}
+
+#subtitulo {
+  font-family: sans-serif;
+  color: #0101df;
+  margin-left: 14%;
+  margin-top: 5px;
+}
+
+body {
+  background-color: #eff5fb;
+  font-family: sans-serif;
+  font-size: 1em;
+  color: #0040ff;
+  margin-left: 30%;
+  margin-top: 3%;
+  justify-content: center;
+}
+
+input,
+select,
+button {
+  font-family: sans-serif;
+  font-size: 1em;
+  color: #0040ff;
+  border-radius: 4px;
+}
+
+.campo {
+  margin-bottom: 1em;
+}
+
+.campo label {
+  margin-bottom: 0, 2em;
+  color: #0040ff;
+  display: block;
+}
+
+.botao {
+  font-size: 1em;
+  background: #a9bcf5;
+  border: 0;
+  margin-bottom: 1em;
+  color: #0101df;
+  box-shadow: 2px 2px 2px;
+  position: absolute;
+  top: 90%;
+  left: 35%;
+}
